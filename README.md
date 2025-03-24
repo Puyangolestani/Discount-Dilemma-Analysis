@@ -25,10 +25,11 @@ Seasonal Sales Discounts: Implementing targeted promotions during peak seasons.
 
 Data Collection for Better Decisions: Using data for ongoing performance evaluation.
 
-🔎 Access the Report
-
-To read the original report, click below:
-View the Report on Google Drive
+Skills & Tools
+Data Cleaning & Quality Assurance
+Data Visualization & Storytelling
+Colab & Jupyter Notebook
+Python: Pandas, Seaborn, Matplotlib
 
 🚀 Final Recommendations
 
