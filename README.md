@@ -26,6 +26,7 @@ Seasonal Sales Discounts: Implementing targeted promotions during peak seasons.
 Data Collection for Better Decisions: Using data for ongoing performance evaluation.
 
 Skills & Tools
+
 Data Cleaning & Quality Assurance
 Data Visualization & Storytelling
 Colab & Jupyter Notebook
